@@ -16,6 +16,7 @@
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 </p>
 
+### ⚙️ Analytics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=escornbar&show_icons=true&theme=react">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=escornbar&layout=compact&theme=react&langs_count=8">
@@ -24,7 +25,6 @@
 ![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=escornbar)
 
 ### 🤝🏻 Get in touch with me
-
 <p>
 <a href="https://linkedin.com/in/muhammadsyaamilfaiq"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:syaamil1136@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
