@@ -1,4 +1,6 @@
-<img align="center" src="https://media.giphy.com/media/cLB6YgcOiYmKRZqk8Z/giphy.gif" alt="null">
+<p align="center">
+  <img src="https://media.giphy.com/media/cLB6YgcOiYmKRZqk8Z/giphy.gif" />
+</p>
 <h1 align="center"> I am Syaamil Fa'iq 👋</h1>
 
 - 🎓  Software Engineering student at University of Malaya (🇲🇾)
