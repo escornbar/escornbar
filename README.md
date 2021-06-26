@@ -1,8 +1,9 @@
 <h1 align="center">Hello there! I am Syaamil Fa'iq 👋</h1>
 
-<h3 align="center">I am currently a first-year student majoring in Software Engineering at University of Malaya</h1>
-
-<hr>
+- 🎓  Software Engineering student at University of Malaya (🇲🇾)
+- 💡  Love to code, solving problems and watch my programs working 
+- 🚀 Perservering to be a full-stack developer
+- ⚡ Fun fact: I like playing games
 
 **Languages:**
 <p>
