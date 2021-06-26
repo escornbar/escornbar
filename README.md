@@ -1,3 +1,4 @@
+![Alt Text](https://64.media.tumblr.com/23944d07f77e41a2d4130e08afe72ddf/tumblr_opa734v1F01qkejxno1_400.gif)
 <h1 align="center">Hello there! I am Syaamil Fa'iq 👋</h1>
 
 - 🎓  Software Engineering student at University of Malaya (🇲🇾)
