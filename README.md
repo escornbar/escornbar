@@ -22,7 +22,7 @@
 
 ![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=escornbar)
 
-### 🤝🏻 Get in Touch with me
+### 🤝🏻 Get in touch with me
 
 <p>
 <a href="https://linkedin.com/in/muhammadsyaamilfaiq"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
