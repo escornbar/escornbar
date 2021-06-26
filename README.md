@@ -1,4 +1,5 @@
 ![](https://media.giphy.com/media/cLB6YgcOiYmKRZqk8Z/giphy.gif)
+<div style="text-align:center"><img src="https://media.giphy.com/media/cLB6YgcOiYmKRZqk8Z/giphy.gif" /></div>
 <h1 align="center"> I am Syaamil Fa'iq 👋</h1>
 
 - 🎓  Software Engineering student at University of Malaya (🇲🇾)
