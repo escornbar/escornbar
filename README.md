@@ -1,5 +1,5 @@
 <div style="text-align:center"><img src="https://media.giphy.com/media/cLB6YgcOiYmKRZqk8Z/giphy.gif" /></div>
-<span style="display:block;text-align:center">![Test Automation](https://media.giphy.com/media/cLB6YgcOiYmKRZqk8Z/giphy.gif)</span>
+<img align="center" src="https://media.giphy.com/media/cLB6YgcOiYmKRZqk8Z/giphy.gif" alt="...">
 <h1 align="center"> I am Syaamil Fa'iq 👋</h1>
 
 - 🎓  Software Engineering student at University of Malaya (🇲🇾)
