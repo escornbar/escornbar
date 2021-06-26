@@ -1,4 +1,4 @@
-<p align="center">![Alt Text](https://media.giphy.com/media/cLB6YgcOiYmKRZqk8Z/giphy.gif)</p>
+![Alt Text](https://media.giphy.com/media/cLB6YgcOiYmKRZqk8Z/giphy.gif)
 <h1 align="center">Hello there! I am Syaamil Fa'iq 👋</h1>
 
 - 🎓  Software Engineering student at University of Malaya (🇲🇾)
