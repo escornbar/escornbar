@@ -1,6 +1,6 @@
 <h1 align="center">Hello there! I am Syaamil Fa'iq 👋</h1>
 
-<h1 align="center">### I am currently a first-year student majoring in Software Engineering at University of Malaya</h1>
+<h3 align="center">I am currently a first-year student majoring in Software Engineering at University of Malaya</h1>
 
 <hr>
 
