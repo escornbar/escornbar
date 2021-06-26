@@ -26,7 +26,7 @@
 ### 🤝🏻 Get in Touch with me
 
 <p>
-<a href="https://linkedin.com/in/muhammad-syaamil-faiq"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://linkedin.com/in/muhammadsyaamilfaiq"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:syaamil1136@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 <!--
