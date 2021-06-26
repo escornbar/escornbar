@@ -5,7 +5,6 @@
 <hr>
 
 **Languages:**
-
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 </p>
@@ -16,7 +15,7 @@
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 </p>
 
-<p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=escornbar&show_icons=true&theme=react">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=escornbar&layout=compact&theme=react&langs_count=8">
 </p>
