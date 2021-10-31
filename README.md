@@ -6,18 +6,23 @@
 - 🎓  Software Engineering student at University of Malaya (🇲🇾)
 - 💡   Love to code, solving problems and watch my programs working 
 - 🚀 Perservering to be a full-stack developer
-- ⚡ Fun fact: I like playing games
+- ⚡ Fun fact: Americano ftw ☕️
 
-**Languages:**
+## Languages:
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </p>
-
-**Databases:**
+## Databases:
 <p>
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+</p>
+
+## Tools of Choice:
+<p>
+  <img src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
 </p>
 
 ### ⚙️ Analytics
