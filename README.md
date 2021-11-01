@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
 </p>
 
-### ⚙️ Analytics
+## Analytics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=escornbar&show_icons=true&theme=react">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=escornbar&layout=compact&theme=react&langs_count=8">
