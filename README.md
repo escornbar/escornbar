@@ -5,10 +5,10 @@
 </p>
 <h1 align="center"> I am Syaamil Fa'iq 👋</h1>
 
-- 🎓 Software Engineering student at University of Malaya (🇲🇾)
-- 💡  Love to code, solving problems and watch my programs working 
-- 🚀 Perservering to be a full-stack developer
-- ⚡ Americano is my fuel
+-🎓  Software Engineering student at University of Malaya (🇲🇾)
+-💡   Love to code, solving problems and watch my programs working 
+-🚀  Perservering to be a full-stack developer
+-⚡  Americano is my fuel
 
 ## Languages:
 <p>
