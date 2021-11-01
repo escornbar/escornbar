@@ -1,7 +1,7 @@
 ![](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=https://github.com/escornbar&color=2A5075&lcolor=757575&style=for-the-badge&logo=Github&text=Visitors)
 
 <p align="center">
-  <img src="https://media.giphy.com/media/cLB6YgcOiYmKRZqk8Z/giphy.gif" />
+  <img src="https://acegif.com/wp-content/gifs/hello-23.gif" />
 </p>
 <h1 align="center"> I am Syaamil Fa'iq 👋</h1>
 
