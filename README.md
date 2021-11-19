@@ -1,5 +1,3 @@
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-
 ![](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=https://github.com/escornbar&color=2A5075&lcolor=757575&style=for-the-badge&logo=Github&text=Visitors)
 
 <p align="center">
@@ -11,8 +9,6 @@
 - 💡    Love to code, solving problems and watch my programs working 
 - 🚀  Perservering to be a full-stack developer
 - ⚡  Americano is my fuel
-
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="syaamilfaiq" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://my.linkedin.com/in/syaamilfaiq?trk=profile-badge">Muhammad Syaamil Faiq</a></div>
 
 ## Languages:
 <p>
