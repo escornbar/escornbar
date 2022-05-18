@@ -5,15 +5,25 @@
 </p>
 <h1 align="center"> I am Syaamil Fa'iq 👋</h1>
 
-- 🎓  Software Engineering student at University of Malaya (🇲🇾)
-- 💡    Love to code, solving problems and watch my programs working 
-- 🚀  Perservering to be a full-stack developer
-- ⚡  Americano is my fuel
+<ul>
+  <li>🎓  Software Engineering student at University of Malaya (🇲🇾)</li>
+  <li>💡    Love to code, solving problems and watch my programs working</li>
+  <li>🚀  Perservering to be a full-stack developer</li>
+  <li>⚡  Americano is my fuel</li>
+  </ul>
 
 ## Languages:
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+</p>
+
+## Frameworks:
+<p>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
 </p>
 
 ## Databases:
