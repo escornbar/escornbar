@@ -6,8 +6,10 @@
 <h1 align="center"> I am Syaamil Fa'iq 👋</h1>
 
 <ul>
-  <li>🎓  Software Engineering student at University of Malaya (🇲🇾)</li>
-  <li>🚀  Perservering to be a full-stack developer</li>
+  <li>🎓 Software Engineering student at University of Malaya </li>
+  <li>💻 Front-end dev, can be a full-stack when needed</li>
+  <li>🏎 Very much into cars </li>
+  <li>💪 Can find me at the gym after work </li>
 </ul>
 
 ## Languages:
@@ -25,6 +27,7 @@
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
   <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white">
+  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
 </p>
 
 ## Databases:
@@ -37,7 +40,6 @@
 <p>
   <img src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
   <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white">
 </p>
