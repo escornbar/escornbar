@@ -28,8 +28,8 @@
 
 <p>
   <strong>get in touch</strong><br/><br/>
-  <a href="https://wwww.syaamilfaiq.com"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=8ecae6"></a>
-  <a href="https://linkedin.com/in/muhammadsyaamilfaiq"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0077B5"></a>
+  <a href="https://www.syaamilfaiq.com" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=8ecae6"></a>
+  <a href="https://linkedin.com/in/muhammadsyaamilfaiq" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0077B5"></a>
   <a href="mailto:syaamil1136@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=D14836"></a>
 </p>
 
