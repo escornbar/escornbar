@@ -1,4 +1,7 @@
-<h1> I am Syaamil Fa'iq 👋</h1>
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fescornbar&labelColor=%235e5c5c&countColor=%238ecae6)
+<p><img src="https://c.tenor.com/fO5xhBYXrBkAAAAd/tenor.gif"/></p>
+
+<h1>Syaamil Fa'iq 👋</h1>
 
 <p>🎓 Software Engineering first-class graduate from University of Malaya </li>
 <p>💻 Full-stack dev, but love frontend development more hehe</li>
