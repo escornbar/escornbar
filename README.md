@@ -15,7 +15,9 @@
 <br/>
 
 <p>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=escornbar&show_icons=true&count_private=true&theme=dark" width="550"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=escornbar&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=github_dark_dimmed"></a>
+  
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=escornbar&layout=compact&theme=github_dark_dimmed"></a>
 </p>
 
 <br/>
