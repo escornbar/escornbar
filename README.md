@@ -3,10 +3,9 @@
 
 <h1>Syaamil Fa'iq 👋</h1>
 
+<p>🏢 Software Engineer at Dell Technologies </li>
 <p>🎓 Software Engineering first-class graduate from University of Malaya </li>
 <p>💻 Full-stack dev, but love frontend development more hehe</li>
-<p>✔ Love clean and minimal UI designs </li>
-<p>💯 Dean's List award recipient for all 7 semesters </li>
 <p>🏆 Best Final Year Academic Project (Software Engineering) 2024 </li>
 <p>🏆 Top 10 Finalists Standard Chartered ImpactHack 2023 </li>
 <p>🏆 2nd Runner-up UMHackathon 2023 </li>
